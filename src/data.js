@@ -46,7 +46,7 @@ export const data = {
       ],
       tech: ["MongoDB", "Express", "React", "Node.js", "Python", "NLP"],
       demo: "#",
-      code: "#"
+      code: "https://github.com/Maithili-007/AiPowered-jobTracker"
     },
     {
       title: "Rental Booking Platform",
@@ -60,7 +60,7 @@ export const data = {
       ],
       tech: ["Node.js", "Express", "MongoDB", "EJS", "Tailwind"],
       demo: "#",
-      code: "#"
+      code: "https://github.com/Maithili-007/-StayNest-airbnb-clone"
     },
     {
       title: "Full‑Stack Todo App",
@@ -74,7 +74,7 @@ export const data = {
       ],
       tech: ["React", "Node.js", "Express", "MongoDB", "REST API"],
       demo: "#",
-      code: "#"
+      code: "https://github.com/Maithili-007/todolist"
     }
   ],
   // Experience timeline

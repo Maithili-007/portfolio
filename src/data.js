@@ -73,7 +73,7 @@ export const data = {
         "RESTful API design"
       ],
       tech: ["React", "Node.js", "Express", "MongoDB", "REST API"],
-      demo: "#",
+      demo: "https://todolist-chi-woad.vercel.app",
       code: "https://github.com/Maithili-007/todolist"
     }
   ],

@@ -45,7 +45,7 @@ export const data = {
         "Responsive React UI"
       ],
       tech: ["MongoDB", "Express", "React", "Node.js", "Python", "NLP"],
-      demo: "#",
+      demo: "https://ai-powered-job-tracker.vercel.app/",
       code: "https://github.com/Maithili-007/AiPowered-jobTracker"
     },
     {

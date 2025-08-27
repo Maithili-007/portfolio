@@ -56,8 +56,6 @@ export const data = {
       "Secure user registration and login",
       "Nested folder hierarchy management",
       "Image upload with validation and preview",
-      "User-restricted data access",
-      "Search functionality for uploaded images"
       ],
       tech: ["React", "Context API", "Node.js", "Express", "MongoDB", "JWT", "Cloudinary"],
       demo: "https://dobby-ads-assignment-flax.vercel.app/",

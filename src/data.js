@@ -49,6 +49,21 @@ export const data = {
       code: "https://github.com/Maithili-007/AiPowered-jobTracker"
     },
     {
+      title: "Google Drive–Style Nested Folder Image Manager ",
+      icon: "PiCheckSquareOffset",
+      desc: "A full-stack cloud storage application enabling users to create nested folders, upload images, and perform secure image search with user-specific access.",
+      features: [
+      "Secure user registration and login",
+      "Nested folder hierarchy management",
+      "Image upload with validation and preview",
+      "User-restricted data access",
+      "Search functionality for uploaded images"
+      ],
+      tech: ["React", "Context API", "Node.js", "Express", "MongoDB", "JWT", "Cloudinary"],
+      demo: "https://dobby-ads-assignment-flax.vercel.app/",
+      code: "https://github.com/Maithili-007/dobbyAds-assignment"
+    },
+    {
       title: "Rental Booking Platform",
       icon: "PiHouseSimple",
       desc: "Complete Airbnb‑style rental platform with role‑based access, user authentication, and dynamic property management built with Node.js and MongoDB.",
@@ -61,20 +76,6 @@ export const data = {
       tech: ["Node.js", "Express", "MongoDB", "EJS", "Tailwind"],
       demo: "#",
       code: "https://github.com/Maithili-007/-StayNest-airbnb-clone"
-    },
-    {
-      title: "Full‑Stack Todo App",
-      icon: "PiCheckSquareOffset",
-      desc: "Comprehensive task management app with React frontend and Node.js backend, featuring real‑time updates and clean MVC architecture.",
-      features: [
-        "Create, edit, delete tasks",
-        "Mark tasks as completed",
-        "Real‑time state updates",
-        "RESTful API design"
-      ],
-      tech: ["React", "Node.js", "Express", "MongoDB", "REST API"],
-      demo: "https://todolist-chi-woad.vercel.app",
-      code: "https://github.com/Maithili-007/todolist"
     }
   ],
   // Experience timeline

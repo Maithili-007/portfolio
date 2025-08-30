@@ -72,7 +72,7 @@ export const data = {
         "Session‑based authentication"
       ],
       tech: ["Node.js", "Express", "MongoDB", "EJS", "Tailwind"],
-      demo: "#",
+      demo: "https://staynest-airbnb-clone.onrender.com",
       code: "https://github.com/Maithili-007/-StayNest-airbnb-clone"
     }
   ],

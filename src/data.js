@@ -92,6 +92,28 @@ export const data = {
       tech: ["HTML", "CSS", "JavaScript", "React", "Firebase", "Bootstrap"]
     },
     {
+  title: "Full Stack Developer Intern",
+  org: "MeditNow",
+  duration: "Oct 2025 – Jan 2026",
+  badge: "Internship",
+  details: [
+  "Built a production-grade pilot-focused web application using Next.js with both JavaScript and TypeScript, following modern full-stack architecture",
+  "Integrated Payload CMS across multiple dynamic modules (jobs, flight schools, tests, practice sections, and chatbot) to enable scalable content management",
+  "Implemented advanced form handling using Zod validation and React Hook Form, along with responsive UI using Tailwind CSS and shadcn/ui components",
+  "Developed secure authentication flows including Google OAuth in Next.js, implementing a modern sign-in experience similar to large-scale SaaS platforms",
+  "Created Python-based web scrapers to aggregate aviation-related job data from multiple public sources and integrated the processed data into the application"
+],
+  tech: [
+    "ReactJS",
+    "NextJS",
+    "Payload CMS",
+    "FastAPI",
+    "MongoDB",
+    "NodeJS",
+    "ExpressJS"
+  ]
+},
+    {
       title: "Academic Projects & Learning",
       org: "Sal College of Engineering",
       duration: "2021 – 2025",

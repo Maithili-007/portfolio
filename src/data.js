@@ -97,17 +97,16 @@ export const data = {
   duration: "Oct 2025 – Jan 2026",
   badge: "Internship",
   details: [
-  "Built a production-grade pilot-focused web application using Next.js with both JavaScript and TypeScript, following modern full-stack architecture",
-  "Integrated Payload CMS across multiple dynamic modules (jobs, flight schools, tests, practice sections, and chatbot) to enable scalable content management",
-  "Implemented advanced form handling using Zod validation and React Hook Form, along with responsive UI using Tailwind CSS and shadcn/ui components",
-  "Developed secure authentication flows including Google OAuth in Next.js, implementing a modern sign-in experience similar to large-scale SaaS platforms",
-  "Created Python-based web scrapers to aggregate aviation-related job data from multiple public sources and integrated the processed data into the application"
+  "Built a Next.js App Router–based application with a strong focus on SEO, using Server-Side Rendering (SSR) and Static Site Generation (SSG) to optimize performance and search visibility",
+  "Integrated Payload CMS as a headless backend with MongoDB Atlas, designing structured collections and fetching dynamic content through CMS-generated APIs",
+  "Implemented a complete authentication flow using NextAuth.js, including Google OAuth, email-based login, OTP verification, and secure session handling",
+  "Used TypeScript across the application to define clear data contracts and improve code reliability and maintainability",
+  "Developed a consistent, reusable UI using Tailwind CSS and shadcn/ui, collaborating via Git and GitHub with structured version control practices"
 ],
   tech: [
     "ReactJS",
     "NextJS",
     "Payload CMS",
-    "FastAPI",
     "MongoDB",
     "NodeJS",
     "ExpressJS"
